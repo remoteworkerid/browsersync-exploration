@@ -11,5 +11,10 @@
     "url": "git@github-swdevbali:remoteworkerid/browsersync-exploration.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2"
+  }
 }
